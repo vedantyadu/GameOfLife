@@ -12,3 +12,6 @@ Demo 🟪🟧🟨 https://vedantyadu.github.io/GameOfLife/
 - An inactive cell with 3 neighbours becomes active.
 - An active cell with 2 or 3 neighbours remains active.
 - All other cells become inactive.
+
+## Example ##
+![Screenshot](img/game.gif)
