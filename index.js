@@ -1,5 +1,5 @@
-import { createGradient } from "./gradient.js"
-import { Grid } from "./grid.js"
+import { createGradient } from "./js/gradient.js"
+import { Grid } from "./js/grid.js"
 
 const gradient = createGradient([[255, 0, 255], [255, 255, 0], [255, 0, 255]], 25)
 const grid = new Grid(document.querySelector(".game"), "grid", "row", "cell", 25, gradient, [22, 24, 26])
