@@ -1,7 +1,7 @@
 # GameOfLife
 A colourful version of Conway's Game of Life.
 
-Demo 🟪🟧🟨 https://vedantyadu.github.io/GameOfLife/
+Demo 🟪🟧🟨 https://vedantyadu.github.io/GameOfLife
 
 ## Getting started ##
 - Click and drag on the grid to create a pattern.
