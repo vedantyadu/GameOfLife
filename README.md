@@ -9,7 +9,7 @@ Demo 🟪🟧🟨 https://vedantyadu.github.io/GameOfLife
 - Adjust the ***slider*** to change the speed of the game.
 - Press the ***X*** key or the ***X*** button to clear the grid.
 
-## How it works? ##
+## Rules ##
 - An inactive cell with 3 neighbours becomes active.
 - An active cell with 2 or 3 neighbours remains active.
 - All other cells become inactive.
